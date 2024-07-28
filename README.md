@@ -4,6 +4,9 @@
 This project focuses on analyzing retail sales data to gain insights into customer purchasing behaviors, product performance, and sales trends. The analysis is performed using SQL Server for data storage and querying, and Power BI for data visualization and reporting.
 
 ### Dataset
+
+Kaggle Retails Sales Dataset (https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset?select=retail_sales_dataset.csv)
+
 The dataset consists of retail sales transactions with the following fields:
 
 TransactionID: Unique identifier for each transaction.
