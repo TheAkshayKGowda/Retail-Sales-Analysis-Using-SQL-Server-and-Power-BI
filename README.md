@@ -9,15 +9,15 @@ Kaggle Retails Sales Dataset (https://www.kaggle.com/datasets/mohammadtalib786/r
 
 The dataset consists of retail sales transactions with the following fields:
 
-TransactionID: Unique identifier for each transaction.
-OrderDate: Date of the transaction.
-CustomerID: Unique identifier for each customer.
-Gender: Gender of the customer.
-Age: Age of the customer.
-ProductCategory: Category of the purchased product.
-Quantity: Quantity of the purchased product.
-PricePerUnit: Price per unit of the product.
-TotalAmount: Total amount of the transaction.
+- TransactionID: Unique identifier for each transaction.
+- OrderDate: Date of the transaction.
+- CustomerID: Unique identifier for each customer.
+- Gender: Gender of the customer.
+- Age: Age of the customer.
+- ProductCategory: Category of the purchased product.
+- Quantity: Quantity of the purchased product.
+- PricePerUnit: Price per unit of the product.
+- TotalAmount: Total amount of the transaction.
 
 ### Project Steps
 
