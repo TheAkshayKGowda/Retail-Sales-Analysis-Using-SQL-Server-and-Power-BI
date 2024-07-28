@@ -28,10 +28,10 @@ Data Insertion: Insert the provided data into the retail_sales table.
 
 ### Key Insights
 >
-- [Monthly Sales Trends]: Monthly sales trends helped identify peak sales periods.
-2.Top-Selling Product Category: Electronics emerged as the top-selling product category.
-3.Sales by Gender: Female customers accounted for a larger proportion of sales.
-4.Sales by Age Group: The 50+ age group had the highest total sales.
+- Monthly Sales Trends: Monthly sales trends helped identify peak sales periods.
+- Top-Selling Product Category: Electronics emerged as the top-selling product category.
+- Sales by Gender: Female customers accounted for a larger proportion of sales.
+- Sales by Age Group: The 50+ age group had the highest total sales.
 
 ## Conclusion
 >
