@@ -27,13 +27,12 @@ Data Insertion: Insert the provided data into the retail_sales table.
 3. Data Visualization with Power BI
 
 ### Key Insights
->.
+>
 1.Monthly Sales Trends: Monthly sales trends helped identify peak sales periods.
 2.Top-Selling Product Category: Electronics emerged as the top-selling product category.
 3.Sales by Gender: Female customers accounted for a larger proportion of sales.
 4.Sales by Age Group: The 50+ age group had the highest total sales.
 
 ##Conclusion
-```
 This project demonstrates how SQL Server and Power BI can be used together to analyze and visualize retail sales data, providing valuable insights for business decision-making.
-```
+
